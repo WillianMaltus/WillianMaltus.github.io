@@ -1,6 +1,5 @@
 # http://WillianMaltus.github.io
 Teste.
-/portifólio/
-index.html
-index.css
-me.jpg
+/portifólio/index.html
+/portifólio/index.css
+/portifólio/me.jpg
