@@ -37,7 +37,7 @@
     border-radius: 190px;
     position: absolute;
     left: 50px;
-    bottom: 120px;
+    bottom: 140px;
     border: solid 5px red;
 }
 
@@ -86,7 +86,7 @@
 
 .sobre object {
     position: absolute;
-    left: 305px;
+    left: 320px;
     top: 5px;
 }
 
@@ -229,7 +229,7 @@
 
 .github p {
     float: right;
-    padding-right: 50px;
+    padding-right: 55px;
     font-family: 'Big Shoulders Text', cursive;
     color: blue;
     position: relative;
@@ -252,7 +252,7 @@
 
 .facebook p {
     float: right;
-    padding-right: 50px;
+    padding-right: 55px;
     font-family: 'Big Shoulders Text', cursive;
     color: blue;
     position: relative;
