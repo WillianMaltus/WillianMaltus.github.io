@@ -19,7 +19,7 @@
 }
 
 .nav h3 {
-    font-size: 35px;
+    font-size: 30px;
     font-family: 'Courgette', cursive;
     color: white;
     position: absolute;
@@ -37,74 +37,74 @@
     border-radius: 190px;
     position: absolute;
     left: 50px;
-    bottom: 250px;
+    bottom: 120px;
     border: solid 5px red;
 }
 
 .sobre {
-    width: 310px;
-    height: 210px;
+    width: 350px;
+    height: 240px;
     background-color: white;
     border: solid 2px black;
     border-radius: 10px;
     position: relative;
     top: 150px;
-    left: 20px;
+    left: 0px;
     font-size: 18px;
 }
 
 .objetivo {
-    width: 310px;
+    width: 350px;
     height: 200px;
     background-color: white;
     border: solid 2px black;
     border-radius: 10px;
     position: relative;
     top: 180px;
-    left: 20px;
+    left: 0px;
     font-size: 20px;
 }
 
 .formacao {
-    width: 310px;
+    width: 350px;
     height: 180px;
     background-color: white;
     border: solid 2px black;
     border-radius: 10px;
     position: relative;
     top: 210px;
-    left: 20px;
+    left: 0px;
     font-size: 20px;
 }
 
 #conhecimento {
     position: relative;
-    left: 90px;
+    left: 80px;
     top: 240px;
 
 }
 
 .sobre object {
     position: absolute;
-    left: 282px;
+    left: 305px;
     top: 5px;
 }
 
 .objetivo object {
     position: absolute;
-    left: 220px;
+    left: 240px;
     top: 10px;
 }
 
 .formacao object {
     position: absolute;
-    left: 225px;
+    left: 245px;
     top: 4px;
 }
 
 #conhecimentos{
     position: relative;
-    left: 260px;
+    left: 270px;
     top: 210px;
 }
 
@@ -121,7 +121,7 @@
 }
 
 #java{
-    width: 310px;
+    width: 320px;
     height: 100px;
     background-color: white;
     border: solid 2px black;
@@ -134,11 +134,11 @@
 #java h2{
     position: absolute;
     left: 70px;
-    top: 40px;
+    top: 25px;
     
 }
 #postgresql{
-    width: 310px;
+    width: 320px;
     height: 100px;
     background-color: white;
     border: solid 2px black;
@@ -156,7 +156,7 @@
 }
 
 #mysql{
-    width: 310px;
+    width: 320px;
     height: 100px;
     background-color: white;
     border: solid 2px black;
@@ -174,7 +174,7 @@
 }
 
 #html{
-    width: 310px;
+    width: 320px;
     height: 100px;
     background-color: white;
     border: solid 2px black;
@@ -197,7 +197,7 @@
 }
 
 #css{
-    width: 310px;
+    width: 320px;
     height: 100px;
     background-color: white;
     border: solid 2px black;
