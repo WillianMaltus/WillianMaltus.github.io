@@ -86,19 +86,19 @@
 
 .sobre object {
     position: absolute;
-    left: 325px;
+    left: 330px;
     top: 5px;
 }
 
 .objetivo object {
     position: absolute;
-    left: 240px;
+    left: 245px;
     top: 10px;
 }
 
 .formacao object {
     position: absolute;
-    left: 245px;
+    left: 250px;
     top: 4px;
 }
 
@@ -229,7 +229,7 @@
 
 .github p {
     float: right;
-    padding-right: 65px;
+    padding-right: 75px;
     font-family: 'Big Shoulders Text', cursive;
     color: blue;
     position: relative;
@@ -252,7 +252,7 @@
 
 .facebook p {
     float: right;
-    padding-right: 65px;
+    padding-right: 75px;
     font-family: 'Big Shoulders Text', cursive;
     color: blue;
     position: relative;
