@@ -1,0 +1,261 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+.nav {
+    width: 100%;
+    height: 300px;
+    background-color: green;
+}
+
+.nav h1 {
+    font-size: 40px;
+    font-family: 'Be Vietnam', sans-serif;
+    color: white;
+    position: absolute;
+    left: 10px;
+}
+
+.nav h3 {
+    font-size: 35px;
+    font-family: 'Courgette', cursive;
+    color: white;
+    position: absolute;
+    left: 10px;
+    top: 70px;
+}
+
+.container-body {
+    width: 100%;
+    height: 1750px;
+    background-color: whitesmoke;
+}
+
+.container-body img {
+    border-radius: 190px;
+    position: absolute;
+    left: 50px;
+    bottom: 250px;
+    border: solid 5px red;
+}
+
+.sobre {
+    width: 310px;
+    height: 210px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    position: relative;
+    top: 150px;
+    left: 20px;
+    font-size: 18px;
+}
+
+.objetivo {
+    width: 310px;
+    height: 200px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    position: relative;
+    top: 180px;
+    left: 20px;
+    font-size: 20px;
+}
+
+.formacao {
+    width: 310px;
+    height: 180px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    position: relative;
+    top: 210px;
+    left: 20px;
+    font-size: 20px;
+}
+
+#conhecimento {
+    position: relative;
+    left: 90px;
+    top: 240px;
+
+}
+
+.sobre object {
+    position: absolute;
+    left: 282px;
+    top: 5px;
+}
+
+.objetivo object {
+    position: absolute;
+    left: 220px;
+    top: 10px;
+}
+
+.formacao object {
+    position: absolute;
+    left: 225px;
+    top: 4px;
+}
+
+#conhecimentos{
+    position: relative;
+    left: 260px;
+    top: 210px;
+}
+
+.sobre h2 {
+    text-align: center;
+}
+
+.objetivo h2 {
+    text-align: center;
+}
+
+.formacao h2 {
+    text-align: center;
+}
+
+#java{
+    width: 310px;
+    height: 100px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    position: relative;
+    top: 230px;
+    left: 20px;
+}
+
+#java h2{
+    position: absolute;
+    left: 70px;
+    top: 40px;
+    
+}
+#postgresql{
+    width: 310px;
+    height: 100px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    position: relative;
+    top: 250px;
+    left: 20px;
+}
+
+#postgresql h2{
+    position: absolute;
+    left: 125px;
+    top: 25px;
+    
+}
+
+#mysql{
+    width: 310px;
+    height: 100px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    position: relative;
+    top: 270px;
+    left: 20px;
+}
+
+#mysql h2{
+    position: absolute;
+    left: 140px;
+    top: 25px;
+    
+}
+
+#html{
+    width: 310px;
+    height: 100px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    position: relative;
+    top: 300px;
+    left: 20px;
+}
+
+#html h2{
+    position: absolute;
+    left: 140px;
+    top: 25px;
+    
+}
+
+#html object{
+    position: relative;
+    top: 20px;
+}
+
+#css{
+    width: 310px;
+    height: 100px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    position: relative;
+    top: 330px;
+    left: 20px;
+}
+
+#css h2{
+    position: absolute;
+    left: 140px;
+    top: 25px;
+    
+}
+
+.github {
+    position: absolute;
+    top: 1950px;
+    left: 20px;
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.github object {
+    padding-top: 5px;
+}
+
+.github p {
+    float: right;
+    padding-right: 50px;
+    font-family: 'Big Shoulders Text', cursive;
+    color: blue;
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+
+.facebook {
+    position: absolute;
+    top: 1950px;
+    left: 170px;
+    width: 220px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.facebook object {
+    padding-top: 5px;
+}
+
+.facebook p {
+    float: right;
+    padding-right: 50px;
+    font-family: 'Big Shoulders Text', cursive;
+    color: blue;
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
